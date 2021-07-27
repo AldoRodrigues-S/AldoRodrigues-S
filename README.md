@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AldoRodrigues-S
+- 👋 Hi, I’m Aldo Rodrigues
 - 👀 I’m interested in Front-end Developer and Graphic Design
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on gitHub
